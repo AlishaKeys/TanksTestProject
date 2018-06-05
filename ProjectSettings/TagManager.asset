@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerLaser
+  - Asteroid
+  - Enemy
+  - EnemyShot
+  - FxTemporaire
+  - Bullet
+  - Empty
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerTank
+  - Obstacle
+  - River
+  - PlayerBullet
+  - EnemyBullet
+  - EnemyTank
+  - Booster
+  - PlayerTankNet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tank
+    uniqueID: 4056545701
+    locked: 0
+  - name: Effect
+    uniqueID: 2149703087
+    locked: 0
+  - name: UI
+    uniqueID: 3255023553
+    locked: 0
